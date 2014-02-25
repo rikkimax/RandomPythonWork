@@ -1,0 +1,256 @@
+<levels>
+	<level>
+		<theseus x="1" y="2" />
+		<minotaur x="1" y="0" />
+		<exit x="3" y="1" />
+		<cells x="4" y="3" />
+		<walls>
+			<right x="2" y="0" />
+			<bottom x="3" y="0" />
+			<right x="2" y="2" />
+			<bottom x="3" y="1" />
+			<right x="1" y="1" />
+			<bottom x="1" y="0" />
+			<bottom x="1" y="1" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="2" y="1" />
+		<minotaur x="0" y="1" />
+		<exit x="1" y="4" />
+		<cells x="7" y="5" />
+		<walls>
+			<right x="0" y="4" />
+			<bottom x="0" y="3" />
+			<right x="1" y="4" />
+			<bottom x="2" y="3" />
+			<bottom x="3" y="3" />
+			<bottom x="4" y="3" />
+			<bottom x="5" y="3" />
+			<bottom x="6" y="3" />
+			
+			<right x="0" y="1" />
+			<right x="1" y="1" />
+			<right x="4" y="2" />
+			<right x="5" y="2" />
+			<bottom x="1" y="1" />
+			<bottom x="5" y="2" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="1" y="1" />
+		<minotaur x="1" y="0" />
+		<exit x="3" y="1" />
+		<cells x="4" y="4" />
+		<walls>
+			<right x="2" y="0" />
+			<right x="2" y="2" />
+			<right x="2" y="3" />
+			<bottom x="3" y="0" />
+			<bottom x="3" y="1" />
+			<bottom x="1" y="0" />
+			<right x="0" y="2" />
+			<bottom x="0" y="2" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="1" y="1" />
+		<minotaur x="4" y="2" />
+		<exit x="3" y="0" />
+		<cells x="5" y="6" />
+		<walls>
+			<right x="2" y="0" />
+			<right x="3" y="0" />
+			<bottom x="0" y="0" />
+			<bottom x="1" y="0" />
+			<bottom x="2" y="0" />
+			<bottom x="4" y="0" />
+			<right x="0" y="1" />
+			<right x="1" y="2" />
+			<bottom x="1" y="2" />
+			<right x="3" y="2" />
+			<bottom x="3" y="1" />
+			<right x="2" y="3" />
+			<bottom x="1" y="3" />
+			<bottom x="2" y="3" />
+			<right x="2" y="4" />
+			<right x="3" y="4" />
+			<bottom x="3" y="4" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="2" y="1" />
+		<minotaur x="2" y="4" />
+		<exit x="5" y="0" />
+		<cells x="7" y="6" />
+		<walls>
+			<bottom x="0" y="0" />
+			<bottom x="1" y="0" />
+			<bottom x="2" y="0" />
+			<bottom x="3" y="0" />
+			<right x="4" y="0" />
+			<bottom x="4" y="0" />
+			<right x="5" y="0" />
+			<bottom x="6" y="0" />
+			<right x="3" y="1" />
+			<right x="3" y="2" />
+			<right x="5" y="1" />
+			<bottom x="5" y="1" />
+			<bottom x="5" y="2"/>
+			<right x="0" y="2" />
+			<bottom x="1" y="2" />
+			<right x="2" y="3" />
+			<bottom x="2" y="3" />
+			<right x="5" y="3"/>
+			<bottom x="5" y="3"/>
+			<right x="1" y="4" />
+			<bottom x="2" y="4" />
+			<bottom x="2" y="4" />
+			<right x="3" y="4" />
+			<bottom x="3" y="4" />
+			<right x="4" y="4" />
+			<bottom x="4" y="4" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="0" y="1" />
+		<minotaur x="4" y="3" />
+		<exit x="4" y="0" />
+		<cells x="6" y="7" />
+		<walls>
+			<bottom x="0" y="0" />
+			<bottom x="1" y="0" />
+			<bottom x="2" y="0" />
+			<right x="3" y="0" />
+			<bottom x="3" y="0" />
+			<right x="4" y="0" />
+			<bottom x="5" y="0" />
+			<right x="4" y="1" />
+			<right x="4" y="2" />
+			<right x="3" y="2" />
+			<bottom x="4" y="2" />
+			<bottom x="0" y="1" />
+			<right x="1" y="2" />
+			<right x="1" y="3" />
+			<right x="2" y="3" />
+			<bottom x="2" y="3" />
+			<bottom x="1" y="2" />
+			<right x="0" y="3" />
+			<right x="0" y="4" />
+			<right x="0" y="5" />
+			<bottom x="4" y="3" />
+			<right x="3" y="4" />
+			<bottom x="2" y="4" />
+			<right x="1" y="5" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="4" y="5" />
+		<minotaur x="0" y="5" />
+		<exit x="1" y="0" />
+		<cells x="6" y="7" />
+		<walls>
+			<right x="0" y="0"/>
+			<bottom x="0" y="0" />
+			<right x="1" y="0"/>
+			<bottom x="2" y="0" />
+			<bottom x="3" y="0" />
+			<bottom x="4" y="0" />
+			<bottom x="5" y="0" />
+			<bottom x="1" y="1" />
+			<right x="4" y="1" />
+			<bottom x="4" y="1" />
+			<right x="2" y="2" />
+			<right x="2" y="3" />
+			<bottom x="4" y="2" />
+			<right x="4" y="3" />
+			<right x="4" y="4" />
+			<right x="4" y="5" />
+			<bottom x="4" y="4" />
+			<right x="3" y="4" />
+			<right x="0" y="4" />
+			<bottom x="0" y="4" />
+			<bottom x="2" y="5" />
+		</walls>
+	</level>
+	<level>
+		<theseus x="0" y="0" />
+		<minotaur x="2" y="2" />
+		<exit x="1" y="8" />
+		<cells x="9" y="9" />
+		<walls>
+			<right x="0" y="8" />
+			<bottom x="0" y="7" />
+			<right x="1" y="8" />
+			<bottom x="2" y="7" />
+			<bottom x="3" y="7" />
+			<bottom x="4" y="7" />
+			<bottom x="5" y="7" />
+			<bottom x="6" y="7" />
+			<bottom x="7" y="7" />
+			<bottom x="8" y="7" />
+			
+			<right x="3" y="0" />
+			<right x="3" y="1" />
+			<right x="5" y="0" />
+			<right x="5" y="1" />
+			
+			<bottom x="0" y="0" />
+			<bottom x="1" y="0" />
+			<right x="1" y="1" />
+			<right x="2" y="1" />
+			<bottom x="2" y="1" />
+			<right x="2" y="2" />
+			<right x="2" y="3" />
+			<bottom x="3" y="3" />
+			
+			<right x="4" y="1" />
+			<right x="4" y="2" />
+			<bottom x="4" y="2" />
+			<bottom x="5" y="2" />
+			<right x="6" y="2" />
+			<bottom x="6" y="2" />
+			<right x="7" y="1" />
+			<bottom x="7" y="1" />
+			<bottom x="7" y="0" />
+			<right x="4" y="3" />
+			<right x="4" y="4" />
+			<bottom x="5" y="4" />
+			<bottom x="6" y="4" />
+			<bottom x="7" y="4" />
+			<bottom x="4" y="4" />
+			<right x="3" y="5" />
+			<bottom x="3" y="5" />
+			<right x="3" y="6" />
+			<bottom x="3" y="6" />
+			
+			<bottom x="6" y="3" />
+			<bottom x="7" y="3" />
+			<bottom x="8" y="3" />
+			
+			<bottom x="6" y="5" />
+			<bottom x="7" y="5" />
+			<bottom x="8" y="5" />
+			
+			<right x="4" y="6" />
+			<bottom x="5" y="6" />
+			<bottom x="6" y="6" />
+			<bottom x="7" y="6" />
+			<right x="5" y="7" />
+			
+			<bottom x="0" y="3" />
+			<right x="0" y="4" />
+			
+			<right x="0" y="2" />
+			<bottom x="1" y="2" />
+			<right x="1" y="3" />
+			<right x="1" y="4" />
+			<bottom x="2" y="4" />
+			<right x="1" y="5" />
+			<bottom x="1" y="5" />
+			<right x="1" y="6" />
+			<right x="0" y="6" />
+			<right x="0" y="7" />
+		</walls>
+	</level>
+</levels>
